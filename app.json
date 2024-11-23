@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "react_native_course",
-    "slug": "react_native_course",
+    "name": "Aora",
+    "slug": "aora",
+    "scheme": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
